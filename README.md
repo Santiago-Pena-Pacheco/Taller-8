@@ -42,3 +42,8 @@ Al iniciar, la consola muestra `Conexión exitosa` y se abre la ventana con los 
 | (raíz) | `App`: método `main` |
 
 Las respuestas escritas del ejercicio 6 (partes c y d) están en `respuestas.md`.
+## INTEGRANTES 
+Nicole Camila Abril 
+Gabriel Enrique Pacheco 
+Santiago Peña Pacheco 
+Julieta Quevedo González 
