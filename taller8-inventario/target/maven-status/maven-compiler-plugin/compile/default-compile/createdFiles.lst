@@ -1,0 +1,11 @@
+com\github\santiago\vista\VentanaInventario.class
+com\github\santiago\conexion\Conexion.class
+com\github\santiago\model\Categoria.class
+com\github\santiago\App.class
+com\github\santiago\dao\CategoriaDAO.class
+com\github\santiago\model\Producto.class
+com\github\santiago\vista\VentanaInventario$1.class
+com\github\santiago\dao\ProductoDAO.class
+com\github\santiago\dao\ProductoDAOImpl.class
+com\github\santiago\dao\CategoriaDAOImpl.class
+com\github\santiago\vista\VentanaInventario$2.class
